@@ -3,7 +3,7 @@ Este proyecto permite indica los contenedores que se deben seleccionar para su t
 
 ## Instrucciones para le ejecución del api
 
-**Url Api**  : http://containerselector-env.eba-umby5znf.us-east-1.elasticbeanstalk.com/
+**Url Api**  : http://containerselector-env.eba-ksus33tp.us-east-1.elasticbeanstalk.com
 + **Operaciones**
     + **POST → /containers/**
 Al consumir esta operaciones se obtendra los contenedores a transportar.
